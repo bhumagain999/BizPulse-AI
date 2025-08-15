@@ -63,6 +63,7 @@ BizP/
 │   └── package.json        # Node dependencies
 └── README.md
 ```
+![BizPulse AI Mini Pipeline](bizpulse_ai_pipeline_mini_transparent.svg)
 
 ## Deployment
 
